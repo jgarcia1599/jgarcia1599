@@ -4,7 +4,7 @@
 
 ## I'm an aspiring Software Developer and Creative Technologist!!
 
-- 🔭 I am currently doing research at the interface of humans and machines at the [Lab for Computer-Human Intelligence][https://x-labs.xyz/] at [NYUAD][https://nyuad.nyu.edu/en/research.html].
+- 🔭 I am currently doing research at the interface of humans and machines at the [Lab for Computer-Human Intelligence](https://x-labs.xyz/) at [NYUAD](https://nyuad.nyu.edu/en/research.html).
 - 🌱 I’m always learning more about new technologies, the ethics and applications of Artificial Intelligence, and new product ideas.
 - ⚡  Fun facts: I enjoy chess, long distance-running, and soccer. 
 - 🇭🇳 I'm a native *Catracho*, born and raised in San Pedro Sula, Honduras. 
@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://juniorfranciscogarcia.com/]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/juniorfranciscogarcia/]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://juniorfranciscogarcia.com/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />([https://www.linkedin.com/in/juniorfranciscogarcia/)
 
 <br />
 
