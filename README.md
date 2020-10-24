@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=juniorfranciscogarcia.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://juniorfranciscogarcia.com/)
 
-## I'm an aspiring Software Developer and Creative Technologist!!
+## I'm an aspiring Software Developer and Creative Technologist!
 
 - 🔭 I am currently doing research at the interface of humans and machines at the [Lab for Computer-Human Intelligence](https://x-labs.xyz/) at [NYUAD](https://nyuad.nyu.edu/en/research.html).
 - 🌱 I’m always learning more about new technologies, the ethics and applications of Artificial Intelligence, and new product ideas.
