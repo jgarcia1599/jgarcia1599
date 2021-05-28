@@ -1,8 +1,8 @@
 ### Hi there, I'm Junior 👋
 
 ## I'm a Software Engineer and Creative Technologist!
-- 🎓 I am a final-year student studying Computer Science with a minor in Interactive Media and Technology at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/), a small campus located in an island in Abu Dhabi, U.A.E. 🇦🇪. 
-- 🔭 I am currently doing research at the interface of humans and machines at the [Lab for Computer-Human Intelligence](https://x-labs.xyz/) at [NYUAD](https://nyuad.nyu.edu/en/research.html).
+- 🎓 I studyied Computer Science with a minor in Interactive Media and Technology at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/), a small campus located in an island in Abu Dhabi, U.A.E. 🇦🇪. 
+- 🔭 I am currently doing research at the interface of humans and systems at the [Human-Data Lab](https://huda-lab.github.io/) at [NYUAD](https://nyuad.nyu.edu/en/research.html).
 - 🌱 I’m always learning more about new technologies, the ethics and applications of Artificial Intelligence, data science and data-driven policy, and anything pertaining to the current state of world affairs.
 - 💻 I have a penchant for developing mobile and web applications.
 - ⚡  Fun facts: I enjoy chess, long distance-running, and soccer. 
