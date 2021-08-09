@@ -16,5 +16,8 @@
 
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgarcia1599)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- Tutorial: https://www.youtube.com/watch?v=ECuqb5Tv9qI
 Base Repo: https://github.com/codeSTACKr/codeSTACKr -->
