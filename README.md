@@ -20,6 +20,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgarcia1599)](https://github.com/anuraghazra/github-readme-stats)
 
+ <a href="#"><img align=top height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarcia1599&layout=compact&hide=php,html&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats" /></a>
+
 
 <!-- Tutorial: https://www.youtube.com/watch?v=ECuqb5Tv9qI
 Base Repo: https://github.com/codeSTACKr/codeSTACKr -->
