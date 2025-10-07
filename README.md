@@ -1,6 +1,6 @@
 ### Hi there, I'm Junior 👋
 
-PhD Student at NYU Tandon. 
+Affiliations: NYU Tandon and NYU Abu Dhabi.
 
 ### Connect with me:
 
